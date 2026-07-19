@@ -47,4 +47,4 @@
 
 ---
 
-🎓 Duke University — Master's in Product Management in AI · Harvard — Business Analytics · Google Cloud & Generative AI certified
+🎓 Duke University — Master's in Product Management in AI · Harvard — Business Analytics · University of Houston - Bachelor’s in Computer Engineering · Google Cloud & Generative AI certified
