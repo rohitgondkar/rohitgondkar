@@ -4,9 +4,8 @@
 
 - 🔭 Currently: Senior Product Manager @ Apex Fintech Solutions — GCP data platform behind 100M+ monthly trading events
 - 🌐 Portfolio: [rohitgondkar.vercel.app](https://rohitgondkar.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/rohitgondkar]([https://www.linkedin.com/in/rohitgondkar](https://www.linkedin.com/in/rohit-gondkar-technical-innovation
-))
-- 📫 Reach me: rohitgondkar@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-gondkar-technical-innovation
+- 📫 Email: rohitgondkar@gmail.com
 
 ## 🚀 Live Products
 
